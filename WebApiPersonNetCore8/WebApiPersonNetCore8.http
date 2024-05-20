@@ -1,6 +1,1 @@
 @WebApiPersonNetCore8_HostAddress = http://localhost:5129
-
-GET {{WebApiPersonNetCore8_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
